@@ -1,1 +1,1 @@
-<img src="{{ asset('storage/logo/SmartRT.png') }}" alt="Logo Aplikasi Anda" {{ $attributes }}>
+<img src="{{ asset('images/SmartRT.png') }}" alt="Logo Aplikasi Anda" {{ $attributes }}>

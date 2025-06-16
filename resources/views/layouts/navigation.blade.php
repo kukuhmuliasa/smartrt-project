@@ -3,7 +3,7 @@
         <div class="flex justify-between h-16">
             <div class="flex items-center">
                 <a href="{{ route('dashboard') }}" class="flex items-center space-x-2">
-                    <img src="{{ asset('storage/logo/SmartRT.png') }}" class="h-10 w-auto" alt="Logo" />
+                    <img src="{{ asset('images/SmartRT.png') }}" class="h-10 w-auto" alt="Logo" />
                     <span class="text-xl font-semibold text-white hidden sm:inline">Smart RT</span>
                 </a>
             </div>
